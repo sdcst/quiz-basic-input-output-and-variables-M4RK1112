@@ -2,5 +2,5 @@
 """
 Debug this program so that it runs
 """
-xVariable = 4
+XVariable = 4
 print(XVariable)
